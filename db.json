@@ -1,14 +1,16 @@
 {
-  "names": [
-    "John Doe",
-    "Jane Smith",
-    "Michael Johnson",
-    "Emily Williams",
-    "William Brown",
-    "Olivia Jones",
-    "Liam Garcia",
-    "Ava Martinez",
-    "Noah Robinson",
-    "Sophia Young"
+  "bookings": [
+    {
+      "Booking_Id": 1004,
+      "Service_wash": "Car Wash",
+      "Email_Id" : "Sarah@gmail.com",
+      "Booking_Date":"2022-10-22"
+    },
+    {
+      "Booking_Id": 1021,
+      "Service_wash": "Denting and Painting",
+      "Email_Id" : "hope@gmail.com",
+      "Booking_Date":"2022-12-22"
+    }
   ]
 }
